@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1943047D-601C-4EFB-A96C-34FE5DED2FE7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gogou</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>19C03779-29F2-43E1-B370-0260E2057A9C</key>
+		<string>https://github.com/Li-Qun/Gogo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gogou.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>19C03779-29F2-43E1-B370-0260E2057A9C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Li-Qun/Gogo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>19C03779-29F2-43E1-B370-0260E2057A9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>19C03779-29F2-43E1-B370-0260E2057A9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Gogo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
